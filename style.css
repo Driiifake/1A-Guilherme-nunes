@@ -8,9 +8,9 @@
 }
 
 p {
-    color: red;
-    fon-size: 30;
-    text-align: left;
+    color: grey;
+    font-size: 50;
+    text-align: center;
 }
 
 h1{
@@ -20,7 +20,17 @@ h1{
 }
 
 h2{
-   color: green;
+   color: grey;
    font-size: 40;
-   text-align: right;
+   text-align: center;
+}
+.lista{
+       color: blue;
+       font-size: 30;
+       text-align: center;
+}
+.lista2{
+        color: purple;
+        font-size: 30;
+        text-align: center;
 }
