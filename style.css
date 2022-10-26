@@ -34,3 +34,35 @@ h2{
         font-size: 30;
         text-align: center;
 }
+
+.minhalista {
+    color: whitesmoke;
+    font-size: 30;
+}
+
+.listas {
+    background: black;
+}
+
+.imagem {
+    text-align: center;
+    background: black
+}
+
+
+.lista{
+    color: whitesmoke;
+    font-size: 30;
+}
+
+#imagem {
+    text-align: center;
+    border: 5px;
+    border-style: solid;
+    border-color: blue;
+    border-top-left-radius: 25px;
+    border-top-right-radius: 25px;
+    border-bottom-left-radius: 25px;
+
+
+
